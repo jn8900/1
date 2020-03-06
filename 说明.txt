@@ -1,0 +1,11 @@
+前台用户：
+用户名：yh    密码：yh
+用户名：zyy   密码：zyy
+
+后台管理员：
+用户名：gly   密码：gly
+用户名：gly2    密码：gly2
+
+运行程序：
+打开IE浏览器，在地址栏中输入 http://localhost:8080/examples/jsp/fzwz2/ 即可打开主页。
+每次运行前都要启动D:\apache-tomcat-6.0.20\bin下面的startup.bat文件。
